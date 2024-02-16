@@ -1,0 +1,13 @@
+.container-auth{
+    max-width: 420px;
+    height: 100vh;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.auth-card{
+    width: 420px;
+    margin: auto;
+}
